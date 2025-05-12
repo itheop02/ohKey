@@ -1,6 +1,6 @@
 # Privacy Policy Annotation Tool
 
-This is a research-oriented web-based tool developed to evaluate the comprehensibility and readability of privacy policies across different online platforms. The project forms part of a Master's dissertation and aims to gather user feedback to improve privacy policy accessibility and clarity.
+This is a research-oriented web-based tool developed to evaluate the comprehensibility and readability of privacy policies across different online platforms. The project aims to gather user feedback to improve privacy policy accessibility and clarity.
 
 ## 📄 User Manual
 
